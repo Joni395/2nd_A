@@ -1,0 +1,56 @@
+header{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+nav{
+    color: grey;
+
+}
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    
+    }
+div.Divi{
+    border: dotted;
+    border-width: 2px;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    padding: 35px;
+    position: relative;
+    left: 30px;
+
+}
+h1{
+    font-size: 20px;
+
+}
+p{
+    font-size: 12px;
+    color: green;
+    margin: 35px;
+}
+ul{
+    list-style-type: square;
+    font-size: 10px;
+    text-align:left;
+}
+ol{
+    list-style-type:lower-alpha
+}
+a.highlight:hover{
+    color:red
+}
+h3{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

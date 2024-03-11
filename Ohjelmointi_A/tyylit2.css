@@ -1,0 +1,17 @@
+body{
+    background-image: url(kani.PNG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    border: dotted;
+    background: green;
+}
+p{
+    background: green;
+    border: round;
+}
+h2{
+    border: dotted;
+}

@@ -1,0 +1,46 @@
+body{
+    background-image: url('map.PNG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    border: dotted;
+    text-align: center;
+
+}
+p{
+    background-color: green;
+    border: round;
+    padding: 30px;
+    width: 500px;
+}
+h3{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+div.divi{
+    float: left;
+}
+figcaption{
+    position:absolute;
+    top:5px;
+    right: 10px
+}
+a.highlight:hover{
+    color:red
+}
+img{
+    position: absolute;
+    top:8px;
+    right: 16px;
+
+}
+section{
+    float: right;
+    width: 80%;
+}
+a.highlight:hover{
+    color:red
+}
