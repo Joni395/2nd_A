@@ -1,24 +1,12 @@
-title{
+h1{
     text-align: center;
 }
-header{
-    text-align: center;
-}
-.row1{
+footer{
     position: fixed;
-    right: 20px;
+    bottom: 0;
+    left: 550px;
 }
-.row2{
+h6{
     position: fixed;
-    left: 20pix;
-}
-.row3{
-    position: fixed;
-    right: 550px;
-}
-section{
-    text-align: center;
-    margin-right: auto;
-    margin-bottom: 90%;
-
+    right: 300px;
 }
