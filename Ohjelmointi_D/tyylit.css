@@ -1,0 +1,24 @@
+title{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+.row1{
+    position: fixed;
+    right: 20px;
+}
+.row2{
+    position: fixed;
+    left: 20pix;
+}
+.row3{
+    position: fixed;
+    right: 550px;
+}
+section{
+    text-align: center;
+    margin-right: auto;
+    margin-bottom: 90%;
+
+}
