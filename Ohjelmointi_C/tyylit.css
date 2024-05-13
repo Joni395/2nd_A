@@ -17,6 +17,7 @@ h6{
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue
 }
 .two{
   background-color: green;
@@ -85,3 +86,4 @@ div.desc {
   padding: 10px;
   text-align: center;
 }
+
