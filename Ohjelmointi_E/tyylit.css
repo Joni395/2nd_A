@@ -138,3 +138,33 @@ div.desc {
   top: 100px;
   color: red;
 }
+
+
+
+div.twelve {
+  margin: 5px;
+  border: 1px solid red;
+  float: left;
+  width: 500px;
+}
+
+div.twelve:hover {
+  border: 1px solid orange;
+}
+
+div.twelve img {
+  width: 500px;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: red;
+  background-color: white;
+}
+
+.thirteen{
+  float: right;
+  color: red;
+}
