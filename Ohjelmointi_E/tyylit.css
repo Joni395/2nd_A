@@ -1,0 +1,140 @@
+h1{
+    text-align: center;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 550px;
+}
+h6{
+    position: fixed;
+    right: 300px;
+}
+.one{
+    background-image: url(woods1.PNG);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.two{
+  background-color: green;
+  color: orange;
+}
+.three{
+  color: red;
+}
+.four{
+  background-image: url(map6.PNG);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+.five{
+  background-image: url(soil6.PNG);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+.six{
+  background-image: url(nightwoods4.PNG);
+}
+.dropdown{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+.seven{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: rgb(51, 50, 50);
+  color: grey;
+}
+.nine{
+  color: red;
+}
+
+
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid blue;
+  float: left;
+  width: 195px;
+}
+
+div.gallery:hover {
+  border: 1px solid blue;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: red;
+}
+
+
+
+
+div.ten {
+  margin: 5px;
+  border: 1px solid blue;
+  float: left;
+  width: 195px;
+}
+
+div.ten:hover {
+  border: 1px solid blue;
+}
+
+div.ten img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: red;
+}
+
+
+div.eight {
+  margin: 5px;
+  border: 1px solid blue;
+  float: left;
+  width: 195px;
+}
+
+div.eight:hover {
+  border: 1px solid blue;
+}
+
+div.eight img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: red;
+}
+
+.eleven{
+  position: fixed;
+  right: 0;
+  top: 100px;
+  color: red;
+}

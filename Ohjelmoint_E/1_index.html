@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML taulukot ja lomakkeet</title>
+    <link rel="stylesheet" href="tyyli.css">
+</head>
+<body>
+    <h1>HTML taulukot ja lomakkeet</h1>
+
+    <h2>HTML taulukot</h2>
+    <caption>Nimi ja ikä taulukko</caption>
+    <table>
+        <tr>
+            <th rowspan="2">Etunimi</th>
+            <th>Sukunimi</th>
+            <th>Ikä</th>
+        </tr>
+        <tr>
+            <th>Juha</th>
+            <th>Korhonen</th>
+            <th>35</th>
+        </tr>
+        <tr>
+            <th>Matti</th>
+            <th>Meikäläinen</th>
+            <th>25</th>
+        </tr>
+        <tr>
+            <th>Liisa</th>
+            <th>Virtanen</th>
+            <th>45</th>
+        </tr>
+    </table>
+
+    <br></br>
+
+    <h2>HTML lomakkeet</h2>
+
+    <caption>Nimen tallennus</caption>
+    <form action="#"></form>
+    <label for="name">etunimi</label><br>
+    <input type="text" id="etunimi" name="fname"><br>
+    <label for="sukunimi">sukunimi</label><br>
+    <input type="text" id="sukunimi" name="sukunimi"><br>
+    <label for="ika">ikä</label><br>
+    <input type="number" id="ika" min="1" max="5"><br><br>
+    <input type="submit" value="Tallenna">
+    </form>
+
+    <br><br>
+    <input type="date">
+    <input type="color">
+    <select name="" id="">
+        <option value="valinta">valintatalo</option>
+        <option value="1">jäätelö</option>
+        <option value="2">suklaa</option>
+        <option value="3">limpska</option>
+    </select>
+</body>
+</html>

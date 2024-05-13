@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 550px;
+}
+h6{
+    position: fixed;
+    right: 300px;
+}
+.one{
+    background-image: url(woods1.PNG);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.two{
+  background-color: green;
+  color: orange;
+}
+.three{
+  color: red;
+}
+.four{
+  background-image: url(map6.PNG);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+.five{
+  background-image: url(soil6.PNG);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+.six{
+  background-image: url(nightwoods4.PNG);
+}
+.dropdown{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+.seven{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+.eight{
+  position: fixed;
+  top: 80px;
+  left: 400px;
+}
+.nine{
+  position: fixed;
+  top: 80px;
+  left: 200px;
+}
+
+div.gallery {
+  margin: 0px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+}

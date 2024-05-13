@@ -10,3 +10,11 @@ h6{
     position: fixed;
     right: 300px;
 }
+.one{
+    background-image: url(woods1.PNG);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
